@@ -160,6 +160,7 @@
             <artifactId>MythicLib-dist</artifactId>
             <version>1.5.1-SNAPSHOT</version>
             <scope>provided</scope>
+            <optional>true</optional>
         </dependency>
         <dependency>
             <groupId>com.github.Realizedd</groupId>
